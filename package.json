@@ -30,7 +30,7 @@
     "eslint": "^8.53.0",
     "prettier": "^3.1.0",
     "typescript": "^5.2.2",
-    "vite": "^4.4.5",
+    "vite": "^4.5.1",
     "vitest": "^0.34.6",
     "webdriverio": "^8.23.0"
   },
